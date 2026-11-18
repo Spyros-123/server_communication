@@ -1,0 +1,5 @@
+Calibrated Voltages: 3.12, 4.68, 5.4, 6.84, 5.16, 
+Max= 6.84
+RMS= 5.18089
+Average= 5.04
+Circuit analysis complete. Maximum voltage is within range. No critical anomalies detected.
